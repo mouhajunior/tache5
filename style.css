@@ -1,0 +1,4658 @@
+
+body{
+    overflow-x: hidden;
+  background: #f3fbfb;
+  overflow-x: hidden;
+}
+
+.crea{
+    margin-top: 8%;
+    font-size: 55px;
+
+}
+
+.ozone{
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+
+
+
+.btn{
+    width: 18%;
+    margin-top: 2%;
+    border: none;
+}
+
+.num{
+    text-align: right;
+    margin-top: 0%;
+}
+
+.i7{
+    margin-left: 43%;
+    font-size: 10%;
+}
+
+.i4{
+    margin-left: 62%;
+    font-size: 10%;
+    position: relative;
+    bottom: 47px;
+}
+
+.i5{
+   float: right;
+   margin-top: 23%;
+   font-size: 5px;
+   margin-right: 7%;
+}
+
+.homme{
+    position: relative;
+    bottom: 315px;
+    margin-left: 11%;
+    font-size: 20px;
+}
+
+.ellip{
+    position: relative;
+    bottom: 585px;
+    margin-left: 23%;
+}
+
+.face{
+    float: left;
+    position: relative;
+    bottom: 585px;
+    
+    font-size: 35px;
+}
+
+.fa{
+   position: relative;
+    margin-left: 67%;
+    bottom: 40px;
+    color: rgb(62, 199, 62);
+}
+
+.rec35{
+    position: relative;
+    float: right;
+    bottom: 900px;
+    margin-left: 5%;
+}
+
+.rec354{
+    position: relative;
+    float: left;
+    bottom: 910px;
+    margin-left: 5%;
+    margin-left: 20%;
+}
+
+.btn{
+    background: #1cda58;
+    color: #fff;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.rec351{
+    position: relative;
+    float: right;
+    bottom: 420px;
+    margin-left: 90%;
+}
+
+.elin1{
+    position: absolute;
+    float: left;
+    bottom: 332px;
+    margin-left: -12%;
+}
+
+.elin2{
+    position: absolute;
+    float: left;
+    bottom: 50px;
+    margin-left: 1%;
+}
+
+.elin4{
+    position: absolute;
+    float: left;
+    bottom: 250px;
+    margin-left: 25%;
+}
+
+.ep9{
+    position: absolute;
+    float: left;
+    bottom: 312px;
+    margin-left: 28%;
+}
+
+.ep6{
+    position: absolute;
+    float: left;
+    bottom: 292px;
+    margin-left: 28.2%;
+}
+
+.row1{
+    display: flex;
+    margin-left: 2;
+}
+
+.ep7{
+    position: absolute;
+    float: left;
+    bottom: 296px;
+    margin-left: 29.6%;
+}
+
+.ep8{
+    position: absolute;
+    float: left;
+    bottom: 296px;
+    margin-left: 28.2%;
+}
+
+.ep5{
+    position: absolute;
+    float: left;
+    bottom: 296px;
+    margin-left: 28.6%;
+}
+
+.ep4{
+    position: absolute;
+    float: left;
+    bottom: 299.9px;
+    margin-left: 30%;
+}
+
+.ep2{
+    position: absolute;
+    float: left;
+    bottom: 314px;
+    margin-left: 29.7%;
+}
+
+.ep3{
+    position: absolute;
+    float: left;
+    bottom: 312px;
+    margin-left: 28.3%;
+}
+
+
+.eii{
+    position: absolute;
+    float: left;
+    bottom: 90px;
+    margin-left: 4.5%;
+    
+}
+
+.pn0{
+    
+        position: absolute;
+        float: left;
+        bottom: 331px;
+        margin-left: -12%;
+
+}
+
+.pn2{
+    position: absolute;
+    float: left;
+    bottom: 397px;
+    margin-left: -9%;
+}
+
+.pn3{
+    position: absolute;
+    float: left;
+    bottom: 385px;
+    margin-left: -9.2%;
+}
+
+.pn5{
+    position: absolute;
+    float: left;
+    bottom: 375px;
+    margin-left: -9%;
+}
+
+.pn4{
+    position: absolute;
+    float: left;
+    bottom: 379px;
+    margin-left: -7.9%;
+}
+
+
+.rec352{
+    position: relative;
+    float: left;
+    bottom: 680px;
+  
+}
+
+.tex{
+    margin-top: 40%;
+    margin-right: 5%;
+}
+
+.card1{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0 0 10px 0px rgb(8, 9, 8);
+    width: 15%;
+   padding: 3%;
+   text-align: left;
+}
+
+.card1{
+    position: relative;
+    bottom: 230px;
+   box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 20%;
+    width: 15%;
+   text-align: left;
+}
+
+
+.card1{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 15%;
+   padding: 2%;
+   text-align: left;
+}
+
+.card2{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 15%;
+   padding: 2%;
+   text-align: left;
+   margin-left: 5%;
+}
+
+.card3{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 15%;
+   padding: 2%;
+   text-align: left;
+   margin-left: 5%;
+}
+
+.card4{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+ border-radius: 8px;
+    width: 15%; 
+   padding: 2%;
+   text-align: left;
+   margin-left: 5%;
+}
+
+.card5{
+    position: relative;
+    bottom: 230px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+border-radius: 8px;
+    width: 15%;
+   padding: 2%;
+   text-align: left;
+   margin-left: 5%;
+}
+
+.card6{
+    position: relative;
+    bottom: 100px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+border-radius: 8px;
+    width: 45%;
+   padding: 4%;
+   text-align: left;
+   margin-left: 0%;
+   background-color: #f2fff8;
+   font-weight: bold;
+
+}
+
+.card7{
+    position: relative;
+    bottom: 100px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+border-radius: 8px;
+    width: 45%;
+   padding: 4%;
+   text-align: left;
+   margin-left: 0%;
+   background-color: #f2fff8;
+   font-weight: bold;
+   margin-left: 10%;
+   justify-content: center;
+   text-align: center  ;
+
+}
+
+.col-6{
+    display: inline-block;
+    display: flex;
+
+}
+
+.im1{
+    position: absolute;
+    top: 22%;
+}
+
+.im2358{
+    position: absolute;
+    top: 22%;
+    margin-left: 18%;
+}
+
+.im2356{
+    position: absolute;
+    top: 22%;
+    margin-left: 5%;
+   
+}
+
+.im2357{
+    position: absolute;
+    top: 22%;
+    margin-left: 12%;
+}
+
+.im2355{
+    margin-top: 6%;
+}
+
+
+.web{
+    font-weight: bold;
+    margin-top: 4%;
+}
+
+
+.col-sm{
+    position: relative;
+    bottom: 75px;
+    margin-left: 5%;
+}
+
+.pt1{
+    position: absolute;
+    margin-top: 5%;
+   bottom: 5%;
+  left: 35%;
+  top: 15%;
+}
+
+.pt2{
+    position: absolute;
+    margin-top: 5%;
+    left: 40%;
+   
+}
+
+.hh4{
+    margin-top: 38%;
+}
+
+.im2361{
+    position: absolute;
+    left: 11%;
+  margin-top: 2%;
+}
+
+
+.im2364{
+    position: absolute;
+    left: 25%;
+  margin-top: 6%;
+}
+
+.im2363{
+    position: absolute;
+    left: 11%;
+  margin-top: 15%;
+}
+
+.im2367{
+    position: absolute;
+    left: 11%;
+  margin-top: 2%;
+}
+
+.im2365{
+    position: absolute;
+    left: 14%;
+  margin-top: 5%;
+}
+
+.im2366{
+    position: absolute;
+    left: 13%;
+  margin-top: 9%;
+}
+
+.i2351{
+    position: absolute;
+    left: 47%;
+  margin-top: 5%;
+}
+
+.pay{
+    margin-top: 27%;
+   margin-right: 39%;
+}
+
+.eli1{
+    position: absolute;
+    top: 1100px;
+    left: 930px;
+    height: 600px;
+    width: 370px;
+    color: #707070;
+   
+}
+
+.eli2{
+    position: absolute;
+    top: 1000px;
+    left: 930px;
+    height: 600px;
+    width: 368px;
+    color: #707070;
+   
+}
+
+
+.mybtn{
+    width: 10px;
+    height: 5px;
+    margin-left: 4%;
+    color: #000000;
+}
+.mybtn1{
+    width: 10px;
+    height: 5px;
+    margin-left: 1%;
+    color: #000000;
+}
+
+.eli3{
+    position: absolute;
+    top: 990px;
+    left: 1200px;
+    height: 600px;
+    width: 97px;
+    color: #e9dfdf;
+   
+}
+
+.bg{
+    margin-top: 30%;
+}
+
+.pat{
+    position: absolute;
+    float: left;
+   margin-left: 12%;
+  top: 241%;
+}
+
+.r373{
+    position: absolute;
+width: 203px;
+height: 88px;
+left: 590px;
+top: 1745.96px;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.1);
+border-radius: 9px;
+
+
+}
+
+.our{
+  
+        position: absolute;
+    width: 203px;
+    height: 88px;
+    left: 595px;
+    top: 1755.96px;
+    
+
+
+}
+
+
+.pattr{
+  
+    position: absolute;
+width: 203px;
+height: 88px;
+left: 135px;
+top: 2000.96px;
+
+
+}
+
+.recc369{
+    position: absolute;
+    width: 23px;
+    height: 28px;
+    left: 595px;
+    top: 2000.96px;
+    
+}
+
+
+.i25k{
+    position: absolute;
+    height: 15px;
+    left: 745px;
+    right: 0%;
+  
+    top: 1799.96px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2px;
+    line-height: 23px;
+    /* identical to box height, or 177% */
+    
+    
+    color: #FF7344;
+
+}
+
+.a94{
+    position: absolute;
+    border-radius: 30px;
+    left: 595px;
+    top: 1775.96px;
+    
+}
+
+.a09{
+    position: absolute;
+    border-radius: 30px;
+    left: 635px;
+    top: 1775.96px;
+    
+}
+
+.a10d{
+    position: absolute;
+    border-radius: 30px;
+    left: 672px;
+    top: 1775.96px;
+    
+}
+
+.e6bb{
+    position: absolute;
+    border-radius: 30px;
+    left: 705px;
+    top: 1775.96px;
+    
+}
+
+.reccc375{
+    position: absolute;
+   
+    left: 105px;
+    top: 1610.96px;
+}
+
+.reccc374{
+    position: absolute;
+   
+    left: 555px;
+    top: 1610.96px;
+}
+
+.reccc369{
+    position: absolute;
+   
+    left: 785px;
+    top: 1578.96px;
+}
+
+.why{
+    float: right;
+    margin-left: 35%;
+    margin-top: 35%;
+    font-weight: bold;
+
+    font-size: 40px;
+}
+
+.one{
+    position: absolute;
+    top: 305%;
+    float: right;
+    margin-left: 15%;
+}
+.ones{
+    position: absolute;
+    top: 320%;
+    float: right;
+    margin-left: 15%;
+    width: 10%;
+    border: none;
+}
+
+.work{
+    font-size: 30px;
+    font-weight: bold;
+   padding: 4%;
+    margin-left: 5%;
+}
+
+.e6b{
+    width: 90%;
+}
+
+
+.a57{
+    width: 90%;
+}
+
+.e37{
+    width: 90%;
+}
+
+.art1{
+    margin-top: 5%;
+}
+
+.art2{
+    margin-top: 5%;
+}
+
+.art3{
+    margin-top: 5%;
+}
+
+.lor1{
+    margin-top: 4%;
+}
+
+
+
+.row-row{
+    margin-top: 9%;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    width: 110%;
+
+
+}
+
+.card15{
+    
+    animation: slide 10s infinite linear;
+  
+}
+.card16{
+    
+    animation: slide 10s infinite linear;
+  
+}
+.card17{
+    
+    animation: slide 10s infinite linear;
+  
+}
+
+@keyframes slide{
+    100% {transform: translatex(-100%);}
+    100% {transform: translateX(-100%);}
+    100% {transform: translateX(-100%);}
+    
+}
+
+.testi{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.card15{
+    position: relative;
+    bottom: 100px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 30%;
+   padding: 8%;
+   text-align: left;
+   margin-left: -15%;
+   background-color: #ffffff;
+   font-weight: bold;
+   margin-top: 17%;
+}
+
+.card16{
+    position: relative;
+    bottom: 100px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 30%;
+   padding: 8%;
+   text-align: left;
+   margin-left: 4%;
+   background-color: #ffffff;
+   font-weight: bold;
+   margin-top: 17%;
+
+}
+  
+
+
+.card17{
+    position: relative;
+    bottom: 100px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    width: 30%;
+   padding: 8%;
+   text-align: left;
+   margin-left: 5%;
+   background-color: #ffffff;
+   font-weight: bold;
+   margin-top: 17%;
+
+}
+
+
+.pdc5{
+    position: absolute;
+left: 11.16%;
+right: 85.87%;
+top:10.83%;
+bottom: 49.94%;
+border-radius: 30px;
+}
+
+.zoe{
+    position: absolute;
+    left: 30.16%;
+    top:10.83%;
+    bottom: 49.94%;
+  
+}
+.found{
+    position: absolute;
+    left: 30.16%;
+    top:24.83%;
+    bottom: 49.94%;
+  font-weight: normal;
+}
+
+.lor2{
+    font-weight: normal;
+    position: absolute;
+    left: 5.16%;
+    top:50.83%;
+   
+  font-weight: normal;
+}
+
+.p07{
+    position: absolute;
+    left: 11.16%;
+    right: 85.87%;
+    top:10.83%;
+    bottom: 49.94%;
+    border-radius: 30px;
+}
+
+.don{
+    position: absolute;
+    left: 30.16%;
+    top:10.83%;
+    bottom: 49.94%;
+}
+
+.beta{
+    position: absolute;
+    left: 30.16%;
+    top:24.83%;
+    bottom: 49.94%;
+  font-weight: normal;
+}
+
+.lor3{
+    font-weight: normal;
+    position: absolute;
+    left: 5.16%;
+    top:50.83%;
+   
+  font-weight: normal;
+}
+
+.cc20{
+    position: absolute;
+    left: 11.16%;
+    right: 85.87%;
+    top:10.83%;
+    bottom: 49.94%;
+    border-radius: 30px;
+}
+
+.nat{
+    position: absolute;
+    left: 30.16%;
+    top:10.83%;
+    bottom: 49.94%;
+}
+
+.alp{
+    position: absolute;
+    left: 30.16%;
+    top:24.83%;
+    bottom: 49.94%;
+  font-weight: normal;
+}
+
+.lor4{
+    font-weight: normal;
+    position: absolute;
+    left: 15.16%;
+    top:50.83%;
+   
+  font-weight: normal;
+}
+
+.select{
+    position: absolute;
+    margin-top: 40%;
+    left: 3.16%;
+}
+
+.line{
+    position: absolute;
+    margin-top: 40%;
+    left: 15.16%;
+}
+
+.line1{
+    position: absolute;
+    margin-top: 40%;
+    left: 26.16%;
+}
+
+.row3{
+    margin-top: 23%;
+    font-weight: bold;
+}
+
+.prow3{
+    font-weight: normal;
+    position: absolute;
+
+    top:540.83%;
+   
+  font-weight: normal;
+}
+
+.btns{
+    font-weight: normal;
+    position: absolute;
+    border: none;
+    top:555.83%;
+   border-radius: 10px;
+  font-weight: normal;
+  background: #2dca57;
+  color: #fff;
+  width: 10%;
+  height: 5%;
+}
+
+
+.or{
+    font-weight: normal;
+    position: absolute;
+    border: none;
+    top:555.83%;
+    left: 20.16%;
+  font-weight: normal;
+ 
+  color: #000000;
+
+}
+
+.icon{
+    position: absolute;
+    border: none;
+    top:556.83%;
+    left: 25.16%;
+    color: #1cda58;
+}
+
+.num2{
+    position: absolute;
+    border: none;
+    top:555.83%;
+    left: 30.16%;
+    color: #000000;
+    font-weight: bold;
+}
+
+.create{
+    position: absolute;
+    border: none;
+    top:559.83%;
+    color: #000000;
+    margin-top: 6%;
+  
+}
+
+a{
+    color: #000000;
+}
+
+.bgbg{
+    float: right;
+    left: 50.16%;
+    margin-top: 0;
+   position: absolute;
+ top:520.83%;;
+}
+
+.i12d68{
+    float: right;
+    left: 57.16%;
+    margin-top: 0;
+   position: absolute;
+ top:522.83%;;
+}
+
+
+.cert{
+    color: #cfbfbf;
+  margin-left: 3%;
+}
+
+
+
+
+
+@media only screen and (min-width: 767px) and (max-width: 1023px) {
+    /*tablette   */
+
+    body{
+        background: #f3fbfb;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+   
+       
+    }
+
+  
+    
+  
+    
+   
+    .crea{
+        margin-top: 8%;
+        font-size: 40px;
+    
+    }
+    
+
+
+
+    .ozone{
+        font-weight: bold;
+        margin-top: 1%;
+    }
+    
+    .btn{
+        width: 30%;
+        margin-top: 2%;
+        border: none;
+        margin-bottom: 19%;
+    }
+    
+    .num{
+        text-align: right;
+        margin-top: 0%;
+      margin-left: 50%;
+        float: right;
+    }
+    
+    .i7{
+        margin-left: 43%;
+        font-size: 10%;
+    }
+    
+    .i4{
+        margin-left: 62%;
+        font-size: 10%;
+        position: relative;
+        bottom: 47px;
+    }
+    
+    .i5{
+        position: absolute;
+       float: right;
+       margin-top: 13%;
+       font-size: 5px;
+      margin-left: -8%;
+    }
+    
+    .homme{
+     position: absolute;
+        bottom: 315px;
+        margin-left: -32%;
+        font-size: 20px;
+       top: 13%;
+       height: 20px;
+      
+    }
+    
+    .ellip{
+        position: relative;
+        bottom: 585px;
+        margin-left: 23%;
+    }
+    
+    .face{
+        float: left;
+       position: absolute;
+        bottom: 505px;
+        
+        font-size: 30px;
+    }
+    
+    .fa{
+       position: relative;
+        margin-left: 25%;
+        bottom: 40px;
+        color: rgb(108, 207, 98);
+    }
+    
+    .rec35{
+        position: relative;
+        float: right;
+        bottom: 900px;
+        margin-left: 5%;
+    }
+    
+    .rec354{
+        position: relative;
+        float: left;
+        bottom: 910px;
+        margin-left: 5%;
+        margin-left: 20%;
+    }
+    
+    .btn{
+        background: #1cda58;
+        color: #fff;
+        border-radius: 20px;
+        font-weight: bold;
+    }
+    
+    .rec351{
+        position: relative;
+        float: right;
+        bottom: 420px;
+        margin-left: 90%;
+    }
+
+    section{
+        height: 5%;
+    }
+    
+    .elin1{
+        position: absolute;
+        float: left;
+        bottom: 332px;
+        margin-left: -35%;
+    }
+    
+    .elin2{
+        position: absolute;
+        float: left;
+        bottom: 14px;
+        margin-left: -20%;
+    }
+
+   
+    
+    .elin4{
+        position: absolute;
+        float: left;
+        bottom: 220px;
+        margin-left: 6%;
+    }
+    
+    .ep9{
+        position: absolute;
+        float: left;
+        bottom: 279px;
+        margin-left: 10.6%;
+    }
+    
+    .ep6{
+        position: absolute;
+        float: left;
+        bottom: 261px;
+        margin-left: 11%;
+    }
+    
+    .ep7{
+        position: absolute;
+        float: left;
+        bottom: 263px;
+        margin-left: 13.4%;
+    }
+    
+    .ep8{
+        position: absolute;
+        float: left;
+        bottom: 263px;
+        margin-left: 11%;
+    }
+    
+    .ep5{
+        position: absolute;
+        float: left;
+        bottom: 264px;
+        margin-left: 11.5%;
+    }
+    
+    .ep4{
+        position: absolute;
+        float: left;
+        bottom: 268.5px;
+        margin-left: 14%;
+    }
+    
+    .ep2{
+        position: absolute;
+        float: left;
+        bottom: 281px;
+        margin-left: 11%;
+    }
+    
+    .ep3{
+        position: absolute;
+        float: left;
+        bottom: 282px;
+        margin-left: 13.5%;
+    }
+    
+    
+    .eii{
+        position: absolute;
+        float: left;
+        bottom: 55px;
+        margin-left: -14%;
+        
+    }
+
+
+    .mybtn{
+        width: 10px;
+        height: 5px;
+        margin-left: 4%;
+    }
+    .mybtn1{
+        width: 10px;
+        height: 5px;
+        margin-left: 1%;
+       
+    }
+    
+    .pn0{
+        
+            position: absolute;
+            float: left;
+            bottom: 331px;
+            margin-left: -12%;
+    
+    }
+    
+    .pn2{
+        position: absolute;
+        float: left;
+        bottom: 398px;
+        margin-left: -29.6%;
+    }
+    
+    .pn3{
+        position: absolute;
+        float: left;
+        bottom: 385px;
+        margin-left: -30%;
+    }
+    
+    .pn5{
+        position: absolute;
+        float: left;
+        bottom: 375px;
+        margin-left: -29.6%;
+    }
+    
+    .pn4{
+        position: absolute;
+        float: left;
+        bottom: 380px;
+        margin-left: -27.6%;
+    }
+    
+    
+    .rec352{
+        position: relative;
+        float: left;
+        bottom: 680px;
+      
+    }
+    
+    .tex{
+        margin-top: 50%;
+        margin-right: 5%;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 220px;
+        box-shadow: 0 0 10px 0px rgb(8, 9, 8);
+        width: 10%;
+       padding: 3%;
+       text-align: left;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 230px;
+       box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 20%;
+        width: 15%;
+       text-align: left;
+    }
+    
+    
+    .card1{
+      position: absolute;
+        bottom: -75px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 15%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 5%;
+    }
+    
+    .card2{
+    position: absolute;
+        bottom: -83px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 18%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 24%;
+       font-size: 20px;
+    }
+    
+    .card3{
+        position: relative;
+        bottom: 230px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 19%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 2%;
+    }
+    
+    .card4{
+        position: absolute;
+        bottom: -140px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 23%; 
+        padding: 3.5%;
+        text-align: left;
+        margin-left: 0%;
+        height: 10px;
+    }
+    
+    .card5{
+        position: relative;
+        bottom: 230px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 22%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 2%;
+    }
+    
+    
+    .card6{
+        position: relative;
+        bottom: 20px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 77%;
+       padding: 4%;
+       text-align: left;
+       margin-left: 0%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 75%;
+       font-size: small;
+    
+    }
+
+    .row1 .card6{
+        position: relative;
+        bottom: 20px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 50%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 0%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 75%;
+       font-size: small; 
+    }
+    
+    .row1{
+        display: flex;
+        margin-left: 2;
+    }
+       
+
+       
+    .row1 .card7{
+        position: relative;
+        bottom: 7%;
+               box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+           border-radius: 8px;
+               width: 45%;
+              padding: 4%;
+              text-align: left;
+              
+              background-color: #f2fff8;
+              font-weight: bold;
+              margin-left: 15%;
+              justify-content: center;
+              text-align: center  ;
+              height: 75%;
+           
+           
+           }
+
+         
+           
+    
+    .card7{
+ position: relative;
+ bottom: 7%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 35%;
+       padding: 4%;
+       text-align: left;
+       
+       background-color: #f2fff8;
+       font-weight: bold;
+       margin-left: 25%;
+       justify-content: center;
+       text-align: center  ;
+       height: 75%;
+    
+    }
+    
+    .col-6{
+        display: inline-block;
+        display: flex;
+        width: auto;
+        height: 250px;
+      
+        
+    }
+
+  
+    
+    .im1{
+        position: absolute;
+        top: 22%;
+    }
+    
+    .im2358{
+        position: absolute;
+        top: 22%;
+        margin-left: 29%;
+    }
+    
+    .im2356{
+        position: absolute;
+        top: 22%;
+        margin-left: 10%;
+       
+    }
+    
+    .im2357{
+        position: absolute;
+        top: 22%;
+        margin-left: 20%;
+    }
+    
+.p1{
+    font-size: 16px;
+}
+
+    .im2355{
+        margin-top: 6%;
+    }
+    
+    
+    .web{
+        font-weight: bold;
+        margin-top: 4%;
+    }
+    
+    
+    .col-sm{
+        position: absolute;
+       top: 130%;
+        margin-left: 49%;
+        float: right;
+        font-size: 5%;
+       
+   
+    }
+
+.ptext{
+    font-size: 23px;
+    width: 40%;
+}
+
+
+ 
+    .hh4{
+        margin-top: 100%;
+        margin-right: 10%;
+    }
+    
+    .im2361{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    
+    .im2364{
+        position: absolute;
+        left: 29%;
+      margin-top: 7%;
+    }
+    
+    .im2363{
+        position: absolute;
+        left: 11%;
+      margin-top: 24%;
+    }
+    
+    .im2367{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    .im2365{
+        position: absolute;
+        left: 14%;
+      margin-top: 5%;
+    }
+    
+    .im2366{
+        position: absolute;
+        left: 13%;
+      margin-top: 9%;
+    }
+    
+    .i2351{
+        position: absolute;
+        left: 47%;
+      margin-top: 5%;
+    }
+
+   
+    
+    .pay{
+        margin-top: 27%;
+       margin-right: 39%;
+       
+    }
+    
+    .eli1{
+        position: absolute;
+        top: 800px;
+        left: 750px;
+        height: 390px;
+        width: 200px;
+        color: #707070;
+       
+    }
+    
+    .eli2{
+        position: absolute;
+        top: 830px;
+        left: 750px;
+        height: 390px;
+        width: 250px;
+        color: #707070;
+       
+    }
+    
+    .eli3{
+        position: absolute;
+        top: 800px;
+        left: 870px;
+        height: 600px;
+        width: 100px;
+        color: #e9dfdf;
+       
+    }
+    
+    .bg{
+       position: absolute;
+       top: 223%;
+        width: 46%;
+        height: 75%;
+    }
+    
+    .pat{
+        position: absolute;
+        float: left;
+       margin-left: 12%;
+      top: 230%;
+    }
+    
+    .r373{
+        position: absolute;
+    width: 203px;
+    height: 88px;
+    left: 480px;
+    top: 1473px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    
+    
+    }
+    
+    .our{
+      
+            position: absolute;
+        width: 203px;
+        height: 88px;
+        left: 515px;
+        top: 1470px;
+        
+    
+    
+    }
+    
+    
+    .pattr{
+      
+        position: absolute;
+    width: 150px;
+    height: 68px;
+    left: 80px;
+    top: 1730px;
+    
+    
+    }
+    
+    .recc369{
+        position: absolute;
+        width: 23px;
+        height: 28px;
+        left: 430px;
+        top: 1800.96px;
+        
+    }
+    
+    
+    .i25k{
+        position: absolute;
+        height: 15px;
+        left: 637px;
+        top: 1535px;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 2px;
+        line-height: 23px;
+        /* identical to box height, or 177% */
+        
+        
+        color: #FF7344;
+    
+    }
+    
+    .a94{
+        position: absolute;
+        border-radius: 30px;
+        left: 490px;
+        top: 1500px;
+        
+    }
+    
+    .a09{
+        position: absolute;
+        border-radius: 30px;
+        left: 529px;
+        top: 1500px;
+        
+    }
+    
+    .a10d{
+        position: absolute;
+        border-radius: 30px;
+        left: 565px;
+        top: 1500px;
+        
+    }
+    
+    .e6bb{
+        position: absolute;
+        border-radius: 30px;
+        left: 600px;
+        top: 1500px;
+        
+    }
+    
+    .reccc375{
+        position: absolute;
+       
+        left: 85px;
+        top: 1310.96px;
+    }
+    
+    .reccc374{
+        position: absolute;
+       
+        left: 555px;
+        top: 1610.96px;
+    }
+    
+    .reccc369{
+        position: absolute;
+       
+        left: 605px;
+        top: 1338.96px;
+    }
+    
+    .why{
+        position: absolute;
+        top: 240%;
+        float: right;
+        margin-left: 50%;
+        margin-top: 35%;
+        font-weight: bold;
+    
+        font-size: 40px;
+    }
+    
+    .one{
+        position: absolute;
+        top: 310%;
+        float: right;
+        margin-left: 53%;
+        
+    }
+    .ones{
+        position: absolute;
+        top: 337%;
+        float: right;
+        margin-left: 55%;
+        width: 17%;
+        border: none;
+    }
+    
+    .work{
+        font-size: 30px;
+        font-weight: bold;
+       padding: 4%;
+        margin-left: 1%;
+        position: absolute;
+        top: 350%;
+    }
+    
+    .e6b{
+        width: 90%;
+    }
+    
+    
+    .a57{
+        width: 90%;
+    }
+    
+    .e37{
+        width: 90%;
+    }
+    
+    .art{
+        margin-top: 5%;
+    }
+    
+    .lor1{
+        margin-top: 4%;
+    }
+    
+    .row-row{
+        position: absolute;
+        top: 440%;
+        margin-top: 9%;
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        width: 135%;
+    
+    
+    }
+
+    .col-4{
+       margin-top: 75%;
+       width: 33%;
+    }
+
+    .rrw{
+        width: 120%;
+        
+    }
+    
+    .card15{
+        
+        animation: slide 10s infinite linear;
+      
+    }
+    .card16{
+        
+        animation: slide 10s infinite linear;
+      
+    }
+    .card17{
+        
+        animation: slide 10s infinite linear;
+      
+    }
+    
+    @keyframes slide{
+        100% {transform: translatex(-100%);}
+        100% {transform: translateX(-100%);}
+        100% {transform: translateX(-100%);}
+    
+     
+    }
+    
+    .testi{
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    
+    .card15{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+       padding: 9%;
+       text-align: left;
+       margin-left: -15%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    }
+    
+    .card16{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+       padding: 9%;
+       text-align: left;
+       margin-left: 4%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+      
+    
+    
+    .card17{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+       padding: 9%;
+       text-align: left;
+       margin-left: 5%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+    
+    
+
+    .pdc5{
+        position: absolute;
+    left: 11.16%;
+    right: 85.87%;
+    top:10.83%;
+    bottom: 49.94%;
+    border-radius: 30px;
+    }
+    
+    .zoe{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+      
+    }
+    .found{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor2{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .p07{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .don{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .beta{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor3{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+        font-size: small;
+      font-weight: normal;
+    }
+    
+    .cc20{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .nat{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .alp{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor4{
+        font-weight: normal;
+        position: absolute;
+        left: 12%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .select{
+        position: absolute;
+        margin-top: 40%;
+        left: 3.16%;
+    }
+    
+    .line{
+        position: absolute;
+        margin-top: 40%;
+        left: 15.16%;
+    }
+    
+    .line1{
+        position: absolute;
+        margin-top: 40%;
+        left: 26.16%;
+    }
+    
+    .row3{
+        margin-top: 23%;
+        font-weight: bold;
+        position: absolute;
+    
+        top:488%;
+    }
+    
+    .prow3{
+        font-weight: normal;
+        position: absolute;
+    
+        top:540.83%;
+       
+      font-weight: normal;
+    }
+    
+    .btns{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top:555.83%;
+       border-radius: 10px;
+      font-weight: normal;
+      background: #2dca57;
+      color: #fff;
+      width: 10%;
+      height: 5%;
+    }
+    
+    
+    .or{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top:555.83%;
+        left: 20.16%;
+      font-weight: normal;
+     
+      color: #000000;
+    
+    }
+    
+    .icon{
+        position: absolute;
+        border: none;
+        top:556.83%;
+        left: 25.16%;
+        color: #1cda58;
+    }
+    
+    .num2{
+        position: absolute;
+        border: none;
+        top:555.83%;
+        left: 30.16%;
+        color: #000000;
+        font-weight: bold;
+    }
+    
+    .create{
+        position: absolute;
+        border: none;
+        top:559.83%;
+        color: #000000;
+        margin-top: 6%;
+      
+    }
+    
+    a{
+        color: #000000;
+    }
+    
+    .bgbg{
+        float: right;
+        left: 39%;
+        margin-top: 0;
+       position: absolute;
+     top:520.83%;;
+    }
+    
+    .i12d68{
+        float: right;
+        left: 48%;
+        margin-top: 0;
+       position: absolute;
+     top:522.83%;;
+    }
+    
+    
+    .cert{
+        color: #cfbfbf;
+      margin-left: 3%;
+    }
+    
+    .roww{
+        height: 40%;
+    }
+    
+}
+
+
+
+
+
+@media only screen and (min-width: 425px) and (max-width: 766px) {
+    /*mobil L*/
+
+    body{
+        background: #f3fbfb;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+      overflow-x: hidden;
+     
+        
+    }
+
+.col-7{
+    display: flex;
+    flex-direction: column;
+}
+ 
+    .tex{
+        position: absolute;
+       top: 300%;
+       margin-left: -19%;
+       display: flex;
+       width: 100%;
+    }
+   
+    .crea{
+       
+        font-size: 30px;
+        display: flex;
+        position: absolute;
+        top: 75%;
+        margin-left: -20%;
+    
+    }
+    
+
+
+
+    .ozone{
+        font-weight: bold;
+        margin-top: 1%;
+        position: absolute;
+        top: 2%;
+        margin-left: -20%;
+    }
+    
+    .btn{
+        width: 30%;
+        margin-top: 2%;
+        border: none;
+        margin-bottom: 19%;
+    }
+    
+    .num{
+        position: absolute;
+        text-align: right;
+        top: 2%;
+      margin-left: 17%;
+        float: right;
+        font-weight: bold;
+    }
+    
+    .i7{
+        top: 10%;
+        margin-left: 7%;
+        font-size: 10%;
+        position: absolute;
+    }
+    
+    .i4{
+        margin-left: 20%;
+        font-size: 10%;
+       position: absolute;
+      top: 0%;
+    }
+    
+    .i5{
+        position: absolute;
+       float: right;
+       top: 15%;
+
+      margin-left: -2%;
+      width: -5%;
+      height: 1%;
+      
+    }
+    
+    .homme{
+     position: absolute;
+     top: 15%;
+        margin-left: -42%;
+ height: 10%;
+       top: 13%;
+       width: 20%;
+      
+    }
+
+
+    .imgg{
+        width: 190%;
+        margin-left: 130%;
+        position: absolute;
+        top: 180%;
+    }
+   
+   
+    .ellip{
+        position: relative;
+        bottom: 585px;
+        margin-left: 23%;
+    }
+    
+    .face{
+        float: left;
+       position: absolute;
+        bottom: 505px;
+        
+        font-size: 30px;
+    }
+    
+    .fa{
+       position: absolute;
+        margin-left: 5%;
+     top: 3%;
+        color: rgb(108, 207, 98);
+    }
+    
+    .rec35{
+        position: relative;
+        float: right;
+        bottom: 900px;
+        margin-left: 5%;
+    }
+    
+    .rec354{
+    position: absolute;
+        float: left;
+        bottom: 910px;
+        margin-left: 5%;
+        margin-left: 10%;
+    }
+    
+    .btn{
+        position: absolute;
+        top: 110%;
+        background: #1cda58;
+        color: #fff;
+        border-radius: 20px;
+        font-weight: bold;
+        margin-left: -10%;
+    }
+    
+    .rec351{
+        position: relative;
+        float: right;
+        bottom: 420px;
+        margin-left: 90%;
+    }
+
+    section{
+        height: 5%;
+    }
+    
+    .elin1{
+        position: absolute;
+        float: left;
+        bottom: 332px;
+        margin-left: -40%;
+        top: 30%;
+        width: 20%;
+    }
+    
+    .elin2{
+        position: absolute;
+        float: left;
+       top: 53%;
+        margin-left: -18%;
+        width: 15%;
+    }
+
+   
+    
+    .elin4{
+        position: absolute;
+      top: 60%;
+        bottom: 220px;
+        margin-left: 16%;
+        width: 20%;
+    }
+    
+    .ep9{
+        position: absolute;
+        float: left;
+     
+        bottom: 188px;
+        margin-left: 22%;
+       width: 7%;
+    }
+    
+    .ep6{
+        position: absolute;
+        float: left;
+        bottom: 175px;
+        margin-left: 23%;
+        height: 4.7%;
+    }
+    
+    .ep7{
+        position: absolute;
+        float: left;
+        bottom: 178px;
+        margin-left: 26%;
+        height: 4.7%;
+    }
+    
+    .ep8{
+        position: absolute;
+        float: left;
+        bottom: 178px;
+        margin-left: 22.5%;
+       width: 7%;
+       height: 2%;
+    }
+
+    .ep5{
+        position: absolute;
+        float: left;
+        bottom: 179px;
+        margin-left: 23.6%;
+        width: 2%;
+    }
+    
+    .ep4{
+        position: absolute;
+        float: left;
+        bottom: 181px;
+        margin-left: 27%;
+        width: 2%;
+    }
+    
+    .ep2{
+        position: absolute;
+        float: left;
+        bottom: 192px;
+        margin-left: 26%;
+        width: 2%;
+    }
+    
+    .ep3{
+        position: absolute;
+        float: left;
+        bottom: 189px;
+        margin-left: 23.2%;
+        width: 2%;
+    }
+    
+    
+    .eii{
+        position: absolute;
+        float: left;
+        top: 57%;
+        margin-left: -11%;
+        width: -15%;
+        height: 3%;
+        
+    }
+
+
+    .mybtn{
+        width: 10px;
+        height: 5px;
+        margin-left: 4%;
+        margin-right: 9%;
+    }
+    .mybtn1{
+        width: 10px;
+        height: 5px;
+        margin-left: 1%;
+        margin-right: 9%;
+    }
+    
+    .pn0{
+        
+            position: absolute;
+            float: left;
+            bottom: 331px;
+            margin-left: -12%;
+    
+    }
+    
+    .pn2{
+        position: absolute;
+        float: left;
+        bottom: 364px;
+        margin-left: -32.7%;
+        width: 6%;
+      
+    }
+    
+    .pn3{
+        position: absolute;
+        float: left;
+        bottom: 353px;
+        margin-left: -33.5%;
+        width: 2.3%;
+    }
+    
+    .pn5{
+        position: absolute;
+        float: left;
+        bottom: 345px;
+        margin-left: -33%;
+        width: 6%;
+    }
+    
+    .pn4{
+        position: absolute;
+        float: left;
+        bottom: 349px;
+        margin-left: -30%;
+        width: 4%;
+    }
+    
+    
+    .rec352{
+     position: absolute;
+        bottom: 680px;
+      
+    }
+    
+    .tex{
+       position: absolute;
+       top: 100%;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 220px;
+        box-shadow: 0 0 10px 0px rgb(8, 9, 8);
+        width: 10%;
+       padding: 3%;
+       text-align: left;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 230px;
+       box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 20%;
+        width: 15%;
+       text-align: left;
+    }
+    
+    
+    .card1{
+      position: absolute;
+       top: 150%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card2{
+    position: absolute;
+    top: 180%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+       font-size: 20px;
+    }
+    
+    .card3{
+        position: absolute;
+        top: 210%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card4{
+        position: absolute;
+        top: 240%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 39%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card5{
+        position: absolute;
+        top: 270%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 34%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    
+    .card6{
+       position: absolute;
+       top: 450%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 89%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 10%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 75%;
+       font-size: small;
+   
+    
+    }
+
+    .row .card6{
+        position: absolute;
+        top: 355%;
+         box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+     border-radius: 8px;
+         width: 35%;
+        padding: 2%;
+        text-align: left;
+     margin-left: -29%;
+        background-color: #f2fff8;
+        font-weight: bold;
+        height: 28%;
+        font-size: small;
+    
+     
+     }
+
+    .row1 .card6{
+        position: absolute;
+        top: 550%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 35%;
+       padding: 2%;
+       text-align: left;
+     margin-left: 30%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 25%;
+       font-size: small; 
+      
+    }
+
+    
+    .row1{
+        display: flex;
+        margin-left: 2;
+    }
+       
+
+       
+    .row1 .card7{
+        position: absolute;
+        top: 475%;
+               box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+           border-radius: 8px;
+               width: 35%;
+              padding: 4%;
+              text-align: left;
+              
+              background-color: #f2fff8;
+              font-weight: bold;
+              margin-left: 30%;
+              justify-content: center;
+              text-align: center  ;
+              height: 33%;
+           
+           
+           }
+
+         
+           
+    
+    .card7{
+        position: absolute;
+        top: 865%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 35%;
+       padding: 4%;
+       text-align: left;
+       
+       background-color: #f2fff8;
+       font-weight: bold;
+       margin-left: 25%;
+       justify-content: center;
+       text-align: center  ;
+       height: 75%;
+    
+    }
+
+    .row .card7{
+        position: absolute;
+        top: 410%;
+               box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+           border-radius: 8px;
+               width: 35%;
+              padding: 4%;
+              text-align: left;
+              
+              background-color: #f2fff8;
+              font-weight: bold;
+              margin-left: -29%;
+              justify-content: center;
+              text-align: center  ;
+              height: 30%;
+           
+           }
+    
+    .col-6{
+        display: inline-block;
+        display: flex;
+        width: auto;
+        height: 250px;
+        flex-direction: column;
+      
+        
+    }
+
+  
+    
+    .im1{
+        position: absolute;
+        top: 22%;
+    }
+    
+    .im2358{
+        position: absolute;
+        top: 22%;
+        margin-left: 29%;
+    }
+    
+    .im2356{
+        position: absolute;
+        top: 22%;
+        margin-left: 10%;
+       
+    }
+    
+    .im2357{
+        position: absolute;
+        top: 22%;
+        margin-left: 20%;
+    }
+    
+.p1{
+    font-size: 10px;
+    position: absolute;
+    top: 100%;
+   margin-right: 10%;
+   margin-left: -20%;
+}
+
+    .im2355{
+        margin-top: 6%;
+    }
+    
+    
+    .web{
+        font-weight: bold;
+        margin-top: 4%;
+    }
+    
+    
+    .col-sm{
+        position: absolute;
+       top: 280%;
+        margin-left: 10%;
+        float: right;
+        font-size: 5%;
+        margin-top: 40%;
+       
+   
+    }
+
+.ptext{
+    font-size: 13px;
+    width: 60%;
+}
+
+
+ 
+    .hh4{
+        margin-top: 100%;
+        margin-right: 10%;
+    }
+    
+    .im2361{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    
+    .im2364{
+        position: absolute;
+        left: 29%;
+      margin-top: 7%;
+    }
+    
+    .im2363{
+        position: absolute;
+        left: 11%;
+      margin-top: 24%;
+    }
+    
+    .im2367{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    .im2365{
+        position: absolute;
+        left: 14%;
+      margin-top: 5%;
+    }
+    
+    .im2366{
+        position: absolute;
+        left: 13%;
+      margin-top: 9%;
+    }
+    
+    .i2351{
+        position: absolute;
+        left: 47%;
+      margin-top: 5%;
+    }
+
+   
+    
+    .pay{
+        margin-top: 27%;
+       margin-right: 39%;
+       
+    }
+    
+    .eli1{
+        position: absolute;
+        top: 2200px;
+        left: 1600px;
+        height: 400px;
+        width: 300px;
+        color: #707070;
+       
+    }
+    
+    .eli2{
+        position: absolute;
+        top: 2290px;
+        left: 270px;
+        height: 400px;
+        width: 150px;
+        color: #707070;
+       
+    }
+    
+    .eli3{
+        position: absolute;
+        top: 2390px;
+        left: 925px;
+        height: 500px;
+        width: 35px;
+        color: #e9dfdf;
+       
+    }
+    
+    .bg{
+       position: absolute;
+       margin-left: -52%;
+       top: 689%;
+      width: 50%;
+        height: 75%;
+        height: 37%;
+    }
+    
+    .pat{
+        position: absolute;
+        float: left;
+       margin-left: -47%;
+       top: 690%;
+      width: 50%;
+    }
+    
+    .r373{
+        position: absolute;
+        margin-left: 42%;
+        height: 7%;
+           width: 20%;
+       left: 80px;
+       top: 700%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    
+    
+    }
+    
+    .our{
+      
+            position: absolute;
+        width: 173px;
+        height: 88px;
+        left: 515px;
+        top: 700%;
+        margin-left: -60%;
+        font-size: 10px;
+        
+    
+    
+    }
+    
+    
+    .pattr{
+      
+        position: absolute;
+        margin-left: -12%;
+     height: 7%;
+        width: 20%;
+    left: 80px;
+    top: 728%;
+    
+    
+    }
+    
+    .recc369{
+        position: absolute;
+        width: 23px;
+        height: 28px;
+        left: 10px;
+        top: 17 00.96px;
+        
+    }
+    
+    
+    .i25k{
+        position: absolute;
+        height: 5px;
+        left: 637px;
+        top: 706%;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 2px;
+        line-height: 23px;
+        margin-left: -73%;
+        /* identical to box height, or 177% */
+        
+        
+        color: #FF7344;
+    
+    }
+    
+    .a94{
+        position: absolute;
+        border-radius: 30px;
+        left: 80px;
+        top: 702%;
+       margin-left: 43%;
+    width: 4%;
+        
+    }
+    
+    .a09{
+        position: absolute;
+        border-radius: 30px;
+    
+     
+        top: 702%;
+        margin-left: -83%;
+     width: 4%;
+    }
+    
+    .a10d{
+        position: absolute;
+        border-radius: 30px;
+        top: 702%;
+        margin-left: -87%;
+     width: 4%;
+    }
+    
+    .e6bb{
+        position: absolute;
+        border-radius: 30px;
+        top: 702%;
+        margin-left: -91%;
+     width: 4%;
+    }
+    
+    .reccc375{
+        position: absolute;
+       
+        left: 85px;
+        top: 1310.96px;
+    }
+    
+    .reccc374{
+        position: absolute;
+       
+        left: 205px;
+        top: 1710.96px;
+    }
+    
+    .reccc369{
+        position: absolute;
+       
+        left: 185px;
+        top: 1978.96px;
+    }
+    
+    .why{
+        position: absolute;
+        top: 590%;
+   
+  margin-left: -30%;
+        margin-top: 15%;
+        font-weight: bold;
+    
+        font-size: 20px;
+    }
+    
+    .one{
+        position: absolute;
+        top: 620%;
+        float: left;
+        margin-left: -35%;
+        width: 50%;
+        
+    }
+    .ones{
+        position: absolute;
+        top: 660%;
+        float: right;
+        margin-left: -35%;
+        width: 27%;
+        border: none;
+    }
+    
+    .work{
+        font-size: 30px;
+        font-weight: bold;
+       padding: 4%;
+        margin-left: 20%;
+        position: absolute;
+        top: 760%;
+    }
+    
+    .e6b{
+        width: 50%;
+        position: absolute;
+        top: 790%;
+        margin-left: -10%;
+    }
+    
+    
+    .a57{
+        width: 50%;
+        position: absolute;
+        top: 850%;
+        margin-left: -10%;
+    }
+    
+    .e37{
+        width: 50%;
+        position: absolute;
+        top: 910%;
+       margin-left: -10%;
+    }
+    
+    .art1{
+        
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+        margin-left: -10%;
+      display: inline-flex;
+      position: absolute;
+      top: 820%;
+    
+    }
+
+
+    .art2{
+        position: absolute;
+        top: 880%;
+       margin-left: -10%;
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+       
+      display: inline-flex;
+     
+    
+    }
+
+
+    .art3{
+        position: absolute;
+        top: 940%;
+        margin-left: -20%;
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+        margin-left: 0%;
+      display: inline-flex;
+     
+    
+    }
+    
+    .lor1{ 
+        position: absolute;
+        margin-top: 60%;
+        margin-left: -10%;
+       
+        top: 905%;
+        width: 60%;
+        font-size: 60%;
+        height: 10%;
+    
+    }
+    
+    .row-row{
+        position: absolute;
+        top: 440%;
+        margin-top: 9%;
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        width: 135%;
+    
+    
+    }
+
+    .col-4{
+       margin-top: 20%;
+       width: 43%;
+       margin-left: -37%;
+   
+        
+    }
+
+    .rrw{
+        width: 120%;
+        
+    }
+    
+ 
+    
+    .testi{
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    
+    .card15{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 39%;
+       padding: 43%;
+       text-align: left;
+       margin-left: -15%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+       
+    }
+    
+    .card16{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+        padding: 43%;
+       text-align: left;
+       margin-left: 4%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+      
+    
+    
+    .card17{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+        padding: 43%;
+       text-align: left;
+       margin-left: 5%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+    
+    
+
+    .pdc5{
+        position: absolute;
+    left: 11.16%;
+    right: 85.87%;
+    top:10.83%;
+    bottom: 49.94%;
+    border-radius: 30px;
+    }
+    
+    .zoe{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+      
+    }
+    .found{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor2{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .p07{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .don{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .beta{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor3{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+        font-size: small;
+      font-weight: normal;
+    }
+    
+    .cc20{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .nat{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .alp{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor4{
+        font-weight: normal;
+        position: absolute;
+        left: 12%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .select{
+        position: absolute;
+        margin-top: 40%;
+        left: 3.16%;
+    }
+    
+    .line{
+        position: absolute;
+        margin-top: 40%;
+        left: 15.16%;
+    }
+    
+    .line1{
+        position: absolute;
+        margin-top: 40%;
+        left: 26.16%;
+    }
+    
+    .row3{
+        margin-top: 43%;
+        font-weight: bold;
+        position: absolute;
+        margin-left: 20%;
+        top: 1110%;
+    }
+    
+    .prow3{
+        font-weight: normal;
+        position: absolute;
+    margin-left: 20%;
+    top: 1160%;
+       
+      font-weight: normal;
+    }
+    
+    .btns{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top: 1180%;
+       border-radius: 10px;
+      font-weight: normal;
+      background: #2dca57;
+      color: #fff;
+      width: 18%;
+      height: 5%;
+      margin-left: 15%;
+    }
+    
+    
+    .or{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top: 1180%;
+        left: 20.16%;
+      font-weight: normal;
+     margin-left: 24%;
+      color: #000000;
+    
+    }
+    
+    .icon{
+        position: absolute;
+        border: none;
+        top: 1181%;
+        left: 17%;
+        color: #1cda58;
+        margin-left: 35%;
+    }
+    
+    .num2{
+        position: absolute;
+        border: none;
+        top: 1180%;
+        left: 22%;
+        color: #000000;
+        font-weight: bold;
+        margin-left: 35%;
+    }
+    
+    .create{
+        position: absolute;
+        border: none;
+        top: 1185%;
+        color: #000000;
+        margin-top: 6%;
+      margin-left: 20%;
+    }
+    
+    a{
+        color: #000000;
+    }
+    
+    .bgbg{
+        float: right;
+        left: 0%;
+        margin-top: 0;
+       position: absolute;
+       top: 1207%;
+       width: 60%;
+       margin-left: 18%;
+    }
+    
+    .i12d68{
+        float: right;
+        left: 20%;
+        margin-top: 0;
+       position: absolute;
+       top: 1203%;
+     width: 60%;
+    }
+    
+    
+    .cert{
+        color: #cfbfbf;
+      margin-left: 3%;
+    }
+    
+    .roww{
+        height: 40%;
+    }
+    .section{
+        position: absolute;
+        top: 980%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-left: 0%;
+        padding: 2%;
+      
+    }
+
+    .carousel-item{
+        margin-top: 15%;
+    }
+
+    .row{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20%;
+        align-items: center;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 425px) {
+    /*mobil L*/
+
+
+    body{
+        background: #f3fbfb;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+       overflow-x: hidden;
+       
+        
+    }
+
+.col-7{
+    display: flex;
+    flex-direction: column;
+}
+ 
+    .tex{
+        position: absolute;
+       top: 300%;
+       margin-left: -19%;
+       display: flex;
+       width: 100%;
+    }
+   
+    .crea{
+       
+        font-size: 30px;
+        display: flex;
+        position: absolute;
+        top: 75%;
+        margin-left: -20%;
+    
+    }
+    
+
+
+
+    .ozone{
+        font-weight: bold;
+        margin-top: 1%;
+        position: absolute;
+        top: 2%;
+        margin-left: -20%;
+    }
+    
+    .btn{
+        width: 30%;
+        margin-top: 2%;
+        border: none;
+        margin-bottom: 19%;
+    }
+    
+    .num{
+        position: absolute;
+        text-align: right;
+        top: 2%;
+      margin-left: 17%;
+        float: right;
+        font-weight: bold;
+    }
+    
+    .i7{
+        top: 10%;
+        margin-left: 7%;
+        font-size: 10%;
+        position: absolute;
+    }
+    
+    .i4{
+        margin-left: 20%;
+        font-size: 10%;
+       position: absolute;
+      top: 0%;
+    }
+    
+    .i5{
+        position: absolute;
+       float: right;
+       top: 12%;
+      margin-left: -2%;
+      width: 2%;
+      height: 18%;
+      
+    }
+    
+    .homme{
+     position: absolute;
+     top: 15%;
+        margin-left: -42%;
+ height: 10%;
+       top: 13%;
+       width: 20%;
+      
+    }
+
+
+    .imgg{
+        width: 190%;
+        margin-left: 130%;
+        position: absolute;
+        top: 180%;
+    }
+   
+   
+    .ellip{
+        position: relative;
+        bottom: 585px;
+        margin-left: 23%;
+    }
+    
+    .face{
+        float: left;
+       position: absolute;
+        bottom: 505px;
+        
+        font-size: 30px;
+    }
+    
+    .fa{
+       position: absolute;
+        margin-left: 5%;
+     top: 3%;
+        color: rgb(108, 207, 98);
+    }
+    
+    .rec35{
+        position: relative;
+        float: right;
+        bottom: 900px;
+        margin-left: 5%;
+    }
+    
+    .rec354{
+    position: absolute;
+        float: left;
+        bottom: 910px;
+        margin-left: 5%;
+        margin-left: 10%;
+    }
+    
+    .btn{
+        position: absolute;
+        top: 110%;
+        background: #1cda58;
+        color: #fff;
+        border-radius: 20px;
+        font-weight: bold;
+        margin-left: -10%;
+    }
+    
+    .rec351{
+        position: relative;
+        float: right;
+        bottom: 420px;
+        margin-left: 90%;
+    }
+
+    section{
+        height: 5%;
+    }
+    
+    .elin1{
+        position: absolute;
+        float: left;
+        bottom: 325px;
+        margin-left: -40%;
+        top: 31%;
+        width: 20%;
+    }
+    
+    .elin2{
+        position: absolute;
+        float: left;
+       top: 50%;
+        margin-left: -14%;
+        width: 15%;
+    }
+
+   
+    
+    .elin4{
+        position: absolute;
+      top: 61%;
+        bottom: 220px;
+        margin-left: 16%;
+        width: 20%;
+    }
+    
+    .ep9{
+        position: absolute;
+        float: left;
+     
+        bottom: 188px;
+        margin-left: 22%;
+       width: 7%;
+    }
+    
+    .ep6{
+        position: absolute;
+        float: left;
+        bottom: 175px;
+        margin-left: 23%;
+        height: 4.7%;
+    }
+    
+    .ep7{
+        position: absolute;
+        float: left;
+        bottom: 178px;
+        margin-left: 26%;
+        height: 4.7%;
+    }
+    
+    .ep8{
+        position: absolute;
+        float: left;
+        bottom: 178px;
+        margin-left: 22.5%;
+       width: 7%;
+       height: 2%;
+    }
+
+    .ep5{
+        position: absolute;
+        float: left;
+        bottom: 179px;
+        margin-left: 23.6%;
+        width: 2%;
+    }
+    
+    .ep4{
+        position: absolute;
+        float: left;
+        bottom: 181px;
+        margin-left: 27%;
+        width: 2%;
+    }
+    
+    .ep2{
+        position: absolute;
+        float: left;
+        bottom: 192px;
+        margin-left: 26%;
+        width: 2%;
+    }
+    
+    .ep3{
+        position: absolute;
+        float: left;
+        bottom: 189px;
+        margin-left: 23.2%;
+        width: 2%;
+    }
+    
+    
+    .eii{
+        position: absolute;
+        float: left;
+        top: 53%;
+        margin-left: -8%;
+        width: -15%;
+        height: 3%;
+        
+    }
+
+
+    .mybtn{
+        width: 10px;
+        height: 5px;
+        margin-left: 4%;
+        margin-right: 9%;
+    }
+    .mybtn1{
+        width: 10px;
+        height: 5px;
+        margin-left: 1%;
+        margin-right: 9%;
+    }
+    
+    .pn0{
+        
+            position: absolute;
+            float: left;
+            bottom: 331px;
+            margin-left: -12%;
+    
+    }
+    
+    .pn2{
+        position: absolute;
+        float: left;
+        bottom: 364px;
+        margin-left: -32.7%;
+        width: 6%;
+      
+    }
+    
+    .pn3{
+        position: absolute;
+        float: left;
+        bottom: 353px;
+        margin-left: -33.5%;
+        width: 2.3%;
+    }
+    
+    .pn5{
+        position: absolute;
+        float: left;
+        bottom: 345px;
+        margin-left: -33%;
+        width: 6%;
+    }
+    
+    .pn4{
+        position: absolute;
+        float: left;
+        bottom: 349px;
+        margin-left: -30%;
+        width: 4%;
+    }
+    
+    
+    .rec352{
+     position: absolute;
+        bottom: 680px;
+      
+    }
+    
+    .tex{
+       position: absolute;
+       top: 100%;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 220px;
+        box-shadow: 0 0 10px 0px rgb(8, 9, 8);
+        width: 10%;
+       padding: 3%;
+       text-align: left;
+    }
+    
+    .card1{
+       position: absolute;
+        bottom: 230px;
+       box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 20%;
+        width: 15%;
+       text-align: left;
+    }
+    
+    
+    .card1{
+      position: absolute;
+       top: 150%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card2{
+    position: absolute;
+    top: 180%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+       font-size: 20px;
+    }
+    
+    .card3{
+        position: absolute;
+        top: 210%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 35%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card4{
+        position: absolute;
+        top: 240%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 39%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    .card5{
+        position: absolute;
+        top: 270%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 34%;
+        height: 10%;
+       padding: 2%;
+       text-align: left;
+       margin-left: -29%;
+    }
+    
+    
+    .card6{
+       position: absolute;
+       top: 450%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 89%;
+       padding: 2%;
+       text-align: left;
+       margin-left: 10%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 75%;
+       font-size: small;
+   
+    
+    }
+
+    .row .card6{
+        position: absolute;
+        top: 355%;
+         box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+     border-radius: 8px;
+         width: 35%;
+        padding: 2%;
+        text-align: left;
+     margin-left: -29%;
+        background-color: #f2fff8;
+        font-weight: bold;
+        height: 28%;
+        font-size: small;
+    
+     
+     }
+
+    .row1 .card6{
+        position: absolute;
+        top: 550%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 35%;
+       padding: 2%;
+       text-align: left;
+     margin-left: 30%;
+       background-color: #f2fff8;
+       font-weight: bold;
+       height: 25%;
+       font-size: small; 
+      
+    }
+
+    
+    .row1{
+        display: flex;
+        margin-left: 2;
+    }
+       
+
+       
+    .row1 .card7{
+        position: absolute;
+        top: 475%;
+               box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+           border-radius: 8px;
+               width: 35%;
+              padding: 4%;
+              text-align: left;
+              
+              background-color: #f2fff8;
+              font-weight: bold;
+              margin-left: 30%;
+              justify-content: center;
+              text-align: center  ;
+              height: 33%;
+           
+           
+           }
+
+         
+           
+    
+    .card7{
+        position: absolute;
+        top: 865%;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+        width: 35%;
+       padding: 4%;
+       text-align: left;
+       
+       background-color: #f2fff8;
+       font-weight: bold;
+       margin-left: 25%;
+       justify-content: center;
+       text-align: center  ;
+       height: 75%;
+    
+    }
+
+    .row .card7{
+        position: absolute;
+        top: 410%;
+               box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+           border-radius: 8px;
+               width: 35%;
+              padding: 4%;
+              text-align: left;
+              
+              background-color: #f2fff8;
+              font-weight: bold;
+              margin-left: -29%;
+              justify-content: center;
+              text-align: center  ;
+              height: 30%;
+           
+           }
+    
+    .col-6{
+        display: inline-block;
+        display: flex;
+        width: auto;
+        height: 250px;
+        flex-direction: column;
+      
+        
+    }
+
+  
+    
+    .im1{
+        position: absolute;
+        top: 22%;
+    }
+    
+    .im2358{
+        position: absolute;
+        top: 22%;
+        margin-left: 29%;
+    }
+    
+    .im2356{
+        position: absolute;
+        top: 22%;
+        margin-left: 10%;
+       
+    }
+    
+    .im2357{
+        position: absolute;
+        top: 22%;
+        margin-left: 20%;
+    }
+    
+.p1{
+    font-size: 10px;
+    position: absolute;
+    top: 100%;
+   margin-right: 10%;
+   margin-left: -20%;
+}
+
+    .im2355{
+        margin-top: 6%;
+    }
+    
+    
+    .web{
+        font-weight: bold;
+        margin-top: 4%;
+    }
+    
+    
+    .col-sm{
+        position: absolute;
+       top: 280%;
+        margin-left: 10%;
+        float: right;
+        font-size: 5%;
+        margin-top: 40%;
+       
+   
+    }
+
+.ptext{
+    font-size: 13px;
+    width: 60%;
+}
+
+
+ 
+    .hh4{
+        margin-top: 100%;
+        margin-right: 10%;
+    }
+    
+    .im2361{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    
+    .im2364{
+        position: absolute;
+        left: 29%;
+      margin-top: 7%;
+    }
+    
+    .im2363{
+        position: absolute;
+        left: 11%;
+      margin-top: 24%;
+    }
+    
+    .im2367{
+        position: absolute;
+        left: 11%;
+      margin-top: 2%;
+    }
+    
+    .im2365{
+        position: absolute;
+        left: 14%;
+      margin-top: 5%;
+    }
+    
+    .im2366{
+        position: absolute;
+        left: 13%;
+      margin-top: 9%;
+    }
+    
+    .i2351{
+        position: absolute;
+        left: 47%;
+      margin-top: 5%;
+    }
+
+   
+    
+    .pay{
+        margin-top: 27%;
+       margin-right: 39%;
+       
+    }
+    
+    .eli1{
+        position: absolute;
+        top: 2200px;
+        left: 220px;
+        height: 400px;
+        width: 150px;
+        color: #707070;
+       
+    }
+    
+    .eli2{
+        position: absolute;
+        top: 2290px;
+        left: 220px;
+        height: 400px;
+        width: 150px;
+        color: #707070;
+       
+    }
+    
+    .eli3{
+        position: absolute;
+        top: 2390px;
+        left: 329px;
+        height: 500px;
+        width: 35px;
+        color: #e9dfdf;
+       
+    }
+    
+    .bg{
+       position: absolute;
+       margin-left: -52%;
+       top: 689%;
+      width: 50%;
+        height: 75%;
+        height: 37%;
+    }
+    
+    .pat{
+        position: absolute;
+        float: left;
+       margin-left: -47%;
+       top: 690%;
+      width: 50%;
+    }
+    
+    .r373{
+        position: absolute;
+        margin-left: 42%;
+        height: 7%;
+           width: 20%;
+       left: 80px;
+       top: 700%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    
+    
+    }
+    
+    .our{
+      
+            position: absolute;
+        width: 173px;
+        height: 88px;
+        left: 515px;
+        top: 700%;
+        margin-left: -73%;
+        font-size: 10px;
+        
+    
+    
+    }
+    
+    
+    .pattr{
+      
+        position: absolute;
+        margin-left: -12%;
+     height: 7%;
+        width: 20%;
+    left: 80px;
+    top: 728%;
+    
+    
+    }
+    
+    .recc369{
+        position: absolute;
+        width: 23px;
+        height: 28px;
+        left: 10px;
+        top: 17 00.96px;
+        
+    }
+    
+    
+    .i25k{
+        position: absolute;
+        height: 5px;
+        left: 637px;
+        top: 705%;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 2px;
+        line-height: 23px;
+        margin-left: -92%;
+        /* identical to box height, or 177% */
+        
+        
+        color: #FF7344;
+    
+    }
+    
+    .a94{
+        position: absolute;
+        border-radius: 30px;
+        left: 80px;
+        top: 702%;
+       margin-left: 43%;
+    width: 4%;
+        
+    }
+    
+    .a09{
+        position: absolute;
+        border-radius: 30px;
+    
+     
+        top: 702%;
+        margin-left: -100%;
+     width: 4%;
+    }
+    
+    .a10d{
+        position: absolute;
+        border-radius: 30px;
+        top: 702%;
+        margin-left: -105%;
+     width: 4%;
+    }
+    
+    .e6bb{
+        position: absolute;
+        border-radius: 30px;
+        top: 702%;
+        margin-left: -109%;
+     width: 4%;
+    }
+    
+    .reccc375{
+        position: absolute;
+       
+        left: 85px;
+        top: 1310.96px;
+    }
+    
+    .reccc374{
+        position: absolute;
+       
+        left: 205px;
+        top: 1710.96px;
+    }
+    
+    .reccc369{
+        position: absolute;
+       
+        left: 185px;
+        top: 1978.96px;
+    }
+    
+    .why{
+        position: absolute;
+        top: 590%;
+   
+  margin-left: -30%;
+        margin-top: 15%;
+        font-weight: bold;
+    
+        font-size: 20px;
+    }
+    
+    .one{
+        position: absolute;
+        top: 620%;
+        float: left;
+        margin-left: -35%;
+        width: 50%;
+        
+    }
+    .ones{
+        position: absolute;
+        top: 660%;
+        float: right;
+        margin-left: -35%;
+        width: 32%;
+        border: none;
+    }
+    
+    .work{
+        font-size: 30px;
+        font-weight: bold;
+       padding: 4%;
+        margin-left: 20%;
+        position: absolute;
+        top: 760%;
+    }
+    
+    .e6b{
+        width: 50%;
+        position: absolute;
+        top: 790%;
+        margin-left: -10%;
+    }
+    
+    
+    .a57{
+        width: 50%;
+        position: absolute;
+        top: 850%;
+        margin-left: -10%;
+    }
+    
+    .e37{
+        width: 50%;
+        position: absolute;
+        top: 910%;
+       margin-left: -10%;
+    }
+    
+    .art1{
+        
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+        margin-left: -10%;
+      display: inline-flex;
+      position: absolute;
+      top: 820%;
+    
+    }
+
+
+    .art2{
+        position: absolute;
+        top: 880%;
+       margin-left: -10%;
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+       
+      display: inline-flex;
+     
+    
+    }
+
+
+    .art3{
+        position: absolute;
+        top: 940%;
+        margin-left: -20%;
+        margin-top: 2%;
+        font-size: 100%;
+        display: flex;
+        margin-left: 0%;
+      display: inline-flex;
+     
+    
+    }
+    
+    .lor1{ 
+        position: absolute;
+        margin-top: 60%;
+        margin-left: -10%;
+       
+        top: 915%;
+        width: 60%;
+        font-size: 60%;
+        height: 10%;
+    
+    }
+    
+    .row-row{
+        position: absolute;
+        top: 440%;
+        margin-top: 9%;
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        width: 135%;
+    
+    
+    }
+
+    .col-4{
+       margin-top: 20%;
+       width: 43%;
+       margin-left: -37%;
+   
+        
+    }
+
+    .rrw{
+        width: 120%;
+        
+    }
+    
+ 
+    
+    .testi{
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    
+    .card15{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 39%;
+       padding: 43%;
+       text-align: left;
+       margin-left: -15%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+       
+    }
+    
+    .card16{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+        padding: 43%;
+       text-align: left;
+       margin-left: 4%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+      
+    
+    
+    .card17{
+        position: relative;
+        bottom: 60px;
+        box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.07);
+        border-radius: 8px;
+        width: 33%;
+        padding: 43%;
+       text-align: left;
+       margin-left: 5%;
+       background-color: #ffffff;
+       font-weight: bold;
+       margin-top: 17%;
+    
+    }
+    
+    
+
+    .pdc5{
+        position: absolute;
+    left: 11.16%;
+    right: 85.87%;
+    top:10.83%;
+    bottom: 49.94%;
+    border-radius: 30px;
+    }
+    
+    .zoe{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+      
+    }
+    .found{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor2{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .p07{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .don{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .beta{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor3{
+        font-weight: normal;
+        position: absolute;
+        left: 5.16%;
+        top:50.83%;
+        font-size: small;
+      font-weight: normal;
+    }
+    
+    .cc20{
+        position: absolute;
+        left: 11.16%;
+        right: 85.87%;
+        top:10.83%;
+        bottom: 49.94%;
+        border-radius: 30px;
+    }
+    
+    .nat{
+        position: absolute;
+        left: 34%;
+        top:10.83%;
+        bottom: 49.94%;
+    }
+    
+    .alp{
+        position: absolute;
+        left: 34%;
+        top:24.83%;
+        bottom: 49.94%;
+      font-weight: normal;
+      font-size: small;
+    }
+    
+    .lor4{
+        font-weight: normal;
+        position: absolute;
+        left: 12%;
+        top:50.83%;
+       font-size: small;
+      font-weight: normal;
+    }
+    
+    .select{
+        position: absolute;
+        margin-top: 40%;
+        left: 3.16%;
+    }
+    
+    .line{
+        position: absolute;
+        margin-top: 40%;
+        left: 15.16%;
+    }
+    
+    .line1{
+        position: absolute;
+        margin-top: 40%;
+        left: 26.16%;
+    }
+    
+    .row3{
+        margin-top: 43%;
+        font-weight: bold;
+        position: absolute;
+        margin-left: 20%;
+        top: 1110%;
+    }
+    
+    .prow3{
+        font-weight: normal;
+        position: absolute;
+    margin-left: 20%;
+    top: 1160%;
+       
+      font-weight: normal;
+    }
+    
+    .btns{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top: 1180%;
+       border-radius: 10px;
+      font-weight: normal;
+      background: #2dca57;
+      color: #fff;
+      width: 18%;
+      height: 5%;
+      margin-left: 15%;
+    }
+    
+    
+    .or{
+        font-weight: normal;
+        position: absolute;
+        border: none;
+        top: 1180%;
+        left: 20.16%;
+      font-weight: normal;
+     margin-left: 24%;
+      color: #000000;
+    
+    }
+    
+    .icon{
+        position: absolute;
+        border: none;
+        top: 1181%;
+        left: 17%;
+        color: #1cda58;
+        margin-left: 35%;
+    }
+    
+    .num2{
+        position: absolute;
+        border: none;
+        top: 1180%;
+        left: 22%;
+        color: #000000;
+        font-weight: bold;
+        margin-left: 35%;
+    }
+    
+    .create{
+        position: absolute;
+        border: none;
+        top: 1185%;
+        color: #000000;
+        margin-top: 6%;
+      margin-left: 20%;
+    }
+    
+    a{
+        color: #000000;
+    }
+    
+    .bgbg{
+        float: right;
+        left: 0%;
+        margin-top: 0;
+       position: absolute;
+       top: 1207%;
+       width: 60%;
+       margin-left: 18%;
+    }
+    
+    .i12d68{
+        float: right;
+        left: 20%;
+        margin-top: 0;
+       position: absolute;
+       top: 1203%;
+     width: 60%;
+    }
+    
+    
+    .cert{
+        color: #cfbfbf;
+      margin-left: 3%;
+    }
+    
+    .roww{
+        height: 40%;
+    }
+    .section{
+        position: absolute;
+        top: 980%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-left: 0%;
+        padding: 2%;
+      
+    }
+
+    .carousel-item{
+        margin-top: 15%;
+    }
+
+    .row{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20%;
+        align-items: center;
+    }
+}
